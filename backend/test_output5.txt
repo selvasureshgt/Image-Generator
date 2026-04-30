@@ -1,0 +1,1 @@
+FAILED: Imagen 3 is only available on paid plans. Please upgrade your account at https://ai.dev/projects.

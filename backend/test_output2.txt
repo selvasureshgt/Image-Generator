@@ -1,0 +1,4 @@
+FAILED for gemini-2.0-flash: Model does not support the requested response modalities: image
+FAILED for gemini-2.0-flash-exp: models/gemini-2.0-flash-exp is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+FAILED for gemini-2.0-pro-exp-02-05: models/gemini-2.0-pro-exp-02-05 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+FAILED for imagen-3.0-generate-002: models/imagen-3.0-generate-002 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
